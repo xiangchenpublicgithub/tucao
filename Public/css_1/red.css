@@ -1,0 +1,5 @@
+body,html { font-family:Calibri, sans-serif; background:#eaf3fb; font-size:12px; height:1000px; line-height:18px; }
+p { height:30px; }
+.dv1 { width:200px; background-color:#eff7ff; border:1px solid #f1291e; position:absolute; left:100px; top:100px; }
+.dv1 h2 { background-color: #f53323; padding:5px; font-family:Georgia, "Times New Roman", Times, serif; font-size:1.0em; text-transform:uppercase; font-weight:bold; color:#3a424a; margin:1px; cursor:move; }
+.dv1 div { padding:5px; margin-bottom:10px; }
